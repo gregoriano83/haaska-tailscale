@@ -1,4 +1,4 @@
-# Haaska with Tailscale
+# Haaska with Tailscale 
 
 [Haaska](https://github.com/mike-grant/haaska/) shipped in a docker image with [Tailscale](https://tailscale.com/)
 
